@@ -1,0 +1,11 @@
+{
+  "name": "nlwnode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/otnielgusta/nlwNode.git",
+  "author": "Otniel Silva <otnielsilvag4@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
