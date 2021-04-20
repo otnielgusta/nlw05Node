@@ -9,7 +9,7 @@ app.get("/", (request, response )=>{
 })
 app.post("/users", (request, response)=>{
   return response.json({
-    message:"Usuario salvo com sucessos"
+    message:"Usuario salvo com sucesso"
   })
 })
 
